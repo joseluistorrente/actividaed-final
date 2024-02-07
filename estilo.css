@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color: blueviolet;
+
+}
+h2{
+    color: brown;
+   background-color: chartreuse;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+img{
+    height: 130px;
+}
+header{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    font-size: 70px;
+}
